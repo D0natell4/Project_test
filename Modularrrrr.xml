@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modular>
-    <!-- menu gives access to modules from the GUI -->
+    <!-- menu gives access to modules from the GUI testTestTestTestTest -->
     <menus>
         <menu name="${GUI.add}">
             <item module="IniManager" name="Ini Manager"/>
